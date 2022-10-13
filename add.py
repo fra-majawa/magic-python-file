@@ -8,3 +8,8 @@ def product(x,y):
   return x * y
 
 product(2,3)
+
+def mins(x,y)
+  return x - y
+  
+
